@@ -1,6 +1,6 @@
 # AntiWechat 
-微信的X宗罪(在issue里面提)   
-Wechat's antihuman points (You're welcome to post anithuman-design of Wechat in issue)  
+微信的X宗罪(在issues里面提)   
+Wechat's antihuman points (You're welcome to post anithuman-design of Wechat in issues)  
 来源：https://www.v2ex.com/t/525683  
 
 首先最基本的连基本聊天同步都不利索的聊天软件，真的配被发布出来给人用吗？  
